@@ -1,0 +1,6 @@
+{
+  "generationCount": 10000,
+  "mutateChance": 0.50,
+  "maxMutateAmount": 10,
+  "crossoverChance": 0.5
+}
